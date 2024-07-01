@@ -1,0 +1,12 @@
+./out/*.pdf
+./out/*.synctex.gz
+latex-cv-old/*
+*.tex
+*.fls
+*.pdf
+*.synctex.gz
+.DS_Store
+
+!example.tex
+!out/example.pdf
+!out/example.synctex.gz
