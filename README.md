@@ -17,5 +17,5 @@ Big shoutout to `qdm12`!!!
 ![](./images/Env_usage.png)
 
 ## References and Thanks
-- qdm12/latexdevcontainer](https://github.com/qdm12/latexdevcontainer)
+- [qdm12/latexdevcontainer](https://github.com/qdm12/latexdevcontainer)
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop/tree/master)
